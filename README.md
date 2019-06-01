@@ -1,4 +1,4 @@
-# Haupt
+
 1. Название – Aвтосервис Topgarage
 Cайт является landing-page .
 2. Идея
